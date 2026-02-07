@@ -60,9 +60,9 @@ print("Leght Set: ", len(age))
 
 '''
 String: All that in between either ' ' or  " "
-List: Variable that have various items, changeable, ordered, and duplicable.
-Tuple: Is a list, but unchangeable. 
-Set: Same as list, tuple could have items but onl those tha immuteable. Not duplicable, unordered and changeable.
+List: Variable that have various items, changeable, ordered, and duplicable, [].
+Tuple: Is a list, but unchangeable, ().
+Set: Same as list, tuple could have items but onl those tha immuteable. Not duplicable, unordered and changeable, {}.
 '''
 
 sentence = 'I am a teacher and I love to inspire and teach people'
